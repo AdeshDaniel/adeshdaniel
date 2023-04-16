@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/thedanielhub" target="blank"><img src="https://img.shields.io/twitter/follow/thedanielhub?logo=twitter&style=for-the-badge" alt="thedanielhub" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Industry Projects**
 
 - 🌱 I’m currently learning **React Native, Laravel**
 
